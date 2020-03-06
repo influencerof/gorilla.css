@@ -1,0 +1,5 @@
+{
+  "name": "gorilla.css",
+  "main": "./gorilla.css",
+  "ignore": [".*", "*.yml", "Gemfile", "Gemfile.lock", "*.md"]
+}
